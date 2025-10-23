@@ -1,15 +1,14 @@
 {
-  "version": "1.0",
   "actualizaciones": [
     {
-      "nombre": "Update 1",
-      "archivo": "update1.zip",
-      "url": "https://github.com/peslogoscontacto-creator/PESLogosUpdate/raw/main/update1.zip"
+      "nombre": "Update1",
+      "archivo": "Update1.zip",
+      "url": "https://github.com/peslogoscontacto-creator/PESLogosUpdate/raw/main/Update1.zip"
     },
     {
-      "nombre": "Update 2",
-      "archivo": "update2.zip",
-      "url": "https://github.com/peslogoscontacto-creator/PESLogosUpdate/raw/main/update2.zip"
+      "nombre": "Update2",
+      "archivo": "Update2.zip",
+      "url": "https://github.com/peslogoscontacto-creator/PESLogosUpdate/raw/main/Update2.zip"
     }
   ]
 }
