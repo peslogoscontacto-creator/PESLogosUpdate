@@ -20,9 +20,14 @@
       "archivo": "Update4.zip",
       "url": "https://github.com/peslogoscontacto-creator/PESLogosUpdate/raw/main/Update4.zip"
     },
-  
+     {
+      "nombre": "Update5",
+      "archivo": "Update5.zip",
+      "url": "https://github.com/peslogoscontacto-creator/PESLogosUpdate/raw/main/Update5.zip"
+    },
   ]
 }
+
 
 
 
