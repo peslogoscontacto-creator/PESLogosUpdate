@@ -5,28 +5,9 @@
       "archivo": "Update1.zip",
       "url": "https://github.com/peslogoscontacto-creator/PESLogosUpdate/raw/main/Update1.zip"
     },
-      {
-      "nombre": "Update2",
-      "archivo": "Update2.zip",
-      "url": "https://github.com/peslogoscontacto-creator/PESLogosUpdate/raw/main/Update2.zip"
-    },
-      {
-      "nombre": "Update3",
-      "archivo": "Update3.zip",
-      "url": "https://github.com/peslogoscontacto-creator/PESLogosUpdate/raw/main/Update3.zip"
-    },
-      {
-      "nombre": "Update4",
-      "archivo": "Update4.zip",
-      "url": "https://github.com/peslogoscontacto-creator/PESLogosUpdate/raw/main/Update4.zip"
-    },
-     {
-      "nombre": "Update5",
-      "archivo": "Update5.zip",
-      "url": "https://github.com/peslogoscontacto-creator/PESLogosUpdate/raw/main/Update5.zip"
-    },
-  ]
+       ]
 }
+
 
 
 
