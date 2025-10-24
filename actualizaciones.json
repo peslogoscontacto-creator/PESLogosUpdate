@@ -1,3 +1,5 @@
 {
-  "actualizaciones": []
+  "nombre": "UpdateTest",
+  "archivo": "UpdateTest.zip",
+  "url": "https://tu-servidor.com/UpdateTest.zip"
 }
