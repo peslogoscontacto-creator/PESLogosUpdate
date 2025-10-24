@@ -1,12 +1,7 @@
 {
-  "actualizaciones": [
-    {
-      "nombre": "Update1",
-      "archivo": "Update1.zip",
-      "url": "https://github.com/peslogoscontacto-creator/PESLogosUpdate/raw/main/Update1.zip"
-    },
-       ]
+  "actualizaciones": []
 }
+
 
 
 
